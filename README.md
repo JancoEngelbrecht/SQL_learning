@@ -4,7 +4,8 @@ This repo includes all the SQL learnings of Janco Engelbrecht.
 
 
 # SQK Alchemy
-![image](https://github.com/JancoEngelbrecht/SQL_learning/assets/75523652/00b6dacd-8cc8-4be4-a14e-37f1b2b53f13)
+![image](https://github.com/JancoEngelbrecht/SQL_learning/assets/75523652/a4c987ac-292e-45b2-891b-d13beb32580c)
+
 
 Cache = Memory with very short access time.
 
@@ -14,5 +15,4 @@ Pool = Collection of Database connection objects.
        
 Dialect = Convert the connection to be able to speak to a common databases
 
-# Engine Configuration:
-![image](https://github.com/JancoEngelbrecht/SQL_learning/assets/75523652/1d655199-3360-42d6-b272-a0da740a072e)
+
