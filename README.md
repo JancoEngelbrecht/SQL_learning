@@ -17,4 +17,5 @@ Dialect = Convert the connection to be able to speak to a common databases
 
 
 # Pandas Query
-![image](https://github.com/JancoEngelbrecht/SQL_learning/assets/75523652/e7fc303c-8a69-4b69-a267-9350cd30d0c8)
+
+![image](https://github.com/JancoEngelbrecht/SQL_learning/assets/75523652/74fafeab-6099-4cf1-902b-39a3681f4ac2)
